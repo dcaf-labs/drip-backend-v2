@@ -1,3 +1,3 @@
-# Drip Analytics/Indexer Server
+# Drip Analytics and Indexer Server
 
 
